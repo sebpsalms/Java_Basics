@@ -1,13 +1,13 @@
-// The place where the data is stored temperally
-// Here java can be "Strongally typed language" that we can specifiy the type of the data need to be stored
-// Assign values from right hand side to left hand side
+// The place where the data is stored temporally
+// Here java can be a "Strongly typed language" that we can specify the type of data needs to be stored
+// Assign values from the right-hand side to the left-hand side
 
 public class variables {
 
   
 	public static void main(String args[])
 		{
-      int number2 =3; // variable delaration with variable tyoe assigning
+      int number2 =3; // variable declaration with variable type assigning
       int number1 =5;
       int sum = 0;
       sum = number1 + number2;
