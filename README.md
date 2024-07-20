@@ -1,2 +1,2 @@
 # Java_Basics
-Complete Java fundamental progra,s
+Complete Java fundamental programs
